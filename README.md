@@ -19,3 +19,11 @@
 :heavy_check_mark: Field  === >>> میدان، پهنه، عرصه، زمینه
 
 :heavy_check_mark: Ground Truth  === >>> داده‌ی مرجع، حقیقت مرجع
+
+:heavy_check_mark: patch  === >>> تکه، وصله، قطعه، به هم دوخت
+
+:heavy_check_mark: Genarative Adversarial Networks (GAN )  === >>> شبکه‌های مولد متخاصم
+
+:heavy_check_mark: Style Transfer  === >>> نگاشت سَبک، انتقال سَبک
+
+:heavy_check_mark: Super Resolution (SR)  === >>> فرا تفکیک پذیری، وضوح بخشیِ فوق العاده 
